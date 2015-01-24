@@ -1,0 +1,84 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	
+}
+
+.pallet {
+	margin: 0 auto;
+	max-width: 100%;
+}
+
+.pallet:after {
+	content: "";
+    display: table;
+    clear: both;
+}
+
+.beam-1 {
+	width: 100%;
+}
+
+.beam-2 {
+	width: 50%;
+}
+
+.beam-3 {
+	width: 33.33333%;
+}
+
+.beam-4 {
+	width: 25%;
+}
+
+.beam-5 {
+	width: 20%;
+}
+
+.beam-6 {
+	width: 16.66667%;
+}
+
+.beam-7 {
+	width: 14.28571%;
+}
+
+.beam-8 {
+	width: 12.5%;
+}
+
+.beam-9 {
+	width: 11.11111%;
+}
+
+.beam-10 {
+	width: 10%;
+}
+
+.beam-11 {
+	width: 9.09091%;
+}
+
+.beam-12 {
+	width: 8.33333%;
+}
+
+.beam-25 {
+	width: 25%;
+}
+
+.beam-40 {
+	width: 40%;
+}
+
+.beam-60 {
+	width: 60%;
+}
+
+.beam-75 {
+	width: 75%;
+}
