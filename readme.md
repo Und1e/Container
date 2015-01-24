@@ -15,5 +15,7 @@ Getting started with Container couldn't be easier.
 
 #### First you need to link the stylesheet
 
-`<link rel="stylesheet" type="text/css" href="container.css">`
+```html
+<link rel="stylesheet" type="text/css" href="container.css">
+```
 
